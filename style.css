@@ -9,10 +9,17 @@ p{
 }
 h1{
   color:orange;
+
+  font-family: 'Righteous' ;
 }
 
 h2{
   color:orange;
 
   font-family: 'Righteous' ;
+
+title{
+    font-family: 'Righteous' ;
+
+    
 }
