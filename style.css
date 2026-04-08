@@ -1,11 +1,13 @@
 body{
   background-color:white;
 }
-
+selector {
+  margin: 20 px;
+  
 p{
   color:orange;
   text-align :right;
-  margin-right: 50 px;
+  margin-right: 80 px;
   font-family: 'Righteous' ;
 }
 h1{
