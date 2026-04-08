@@ -10,21 +10,22 @@ p{
 }
 h1{
   color:orange;
-
+  font-size:24 px;
   font-family: 'Righteous' ;
 }
 
 h2{
   color:orange;
+  font-family: 'Orbit', sans-serif;
 
   font-family: 'Orbit' ;
 
 title{
     font-family: 'Righteous' ;
 
-  @media (max-width: 600 px){
-  h1{
-    font-size:24 px;
+
+  
+     @media (max-width: 600 px){
   }
 }
 
