@@ -6,9 +6,11 @@ selector {
 }  
 p{
   color:orange;
+  font-family: 'Righteous' ;
   text-align :right;
   margin-right: 80 px;
   font-family: 'Righteous' ;
+  font-family: 'Righteous', sans-serif;
 }
 h1{
   color:orange;
